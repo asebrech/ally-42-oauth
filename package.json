@@ -1,7 +1,7 @@
 {
   "name": "ally-42-oauth",
   "description": "AdonisJS Ally driver for 42 School's Intra OAuth2 authentication",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "build/index.js",
   "type": "module",
   "files": [
